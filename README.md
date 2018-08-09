@@ -1,7 +1,7 @@
-# Week-1" 
+# Week-1 
 
-# What to Read
+## What to Read
 
-# Learning Goals
+## Learning Goals
 
-# Exercises
+## Exercises
