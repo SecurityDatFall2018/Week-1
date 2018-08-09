@@ -1,2 +1,7 @@
-"# fullstackjsF2018" 
-"# Week-1" 
+# Week-1" 
+
+# What to Read
+
+# Learning Goals
+
+# Exercises
