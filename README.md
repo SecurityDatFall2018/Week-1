@@ -10,7 +10,7 @@ Please open and skim:
 
 OWASP Top 10 - 2017
 The Ten Most Critical Web Application Security Risks
-[PDF](../Documents/OWASP Top 10-2017.pdf)
+[PDF](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf)
 
 ## Learning Goals
 
