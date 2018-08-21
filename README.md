@@ -40,4 +40,7 @@ Ubuntu comes with a build in firewall called `ufw`
 This magic linux script will tell which ports were examined, the next from which address:
   - `grep -Po '(?<=DPT=)[^ ]*' /var/log/ufw.log | sort | uniq -c`
   - `grep -Po '(?<=SRC=)[^ ]*' /var/log/ufw.log | sort | uniq -c`
-  - (see http://perldoc.perl.org/perlre.html for explanation)
+
+Useful links:
+* [Regular expressions](http://perldoc.perl.org/perlre.html)
+* [Bash Cheat Sheet](http://crowdsourcing-class.org/bash-commands.html)
