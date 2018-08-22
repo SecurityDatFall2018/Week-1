@@ -42,6 +42,10 @@ Ubuntu comes with a build in firewall called `ufw`
   apt-get install geoip-bin
   geoiplookup cphbusiness.dk
   ```
+  or just
+  ```
+  curl ipinfo.io/23.66.166.151
+  ```
   - What services are behind those ports
 * Let it run until next Wednesday and bring your answers to class.
 This magic linux script will tell which ports were examined, the next from which address:
