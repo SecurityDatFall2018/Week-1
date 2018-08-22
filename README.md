@@ -36,7 +36,7 @@ Ubuntu comes with a build in firewall called `ufw`
   ([this might be helpful](https://help.ubuntu.com/community/UFW) - look at the end)
   - From which IP addresses do you get visitors
   - What ports do your visitors attempt to use
-  - Where are those IP addresses located
+  - Where are those IP addresses located (https://www.ip-tracker.org)
   - What services are behind those ports
 * Let it run until next Wednesday and bring your answers to class.
 This magic linux script will tell which ports were examined, the next from which address:
